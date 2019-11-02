@@ -189,7 +189,9 @@ Hovereffect
   transform: scale(1);
   background-color: rgba(0,0,0,0.4);
 }
-
+.portfolio-item {
+  height: auto !important
+}
 .portfolio-item .item{
 	margin-bottom:30px;
 	border-radius:15px;
